@@ -1,0 +1,2 @@
+This Excel file contains a comprehensive dashboard for coffee shop data analysis. The dashboard provides key insights into sales performance, customer demographics, product popularity, and other essential metrics. It's designed to help coffee shop owners and managers make data-driven decisions to optimize operations and enhance customer satisfaction. The data visualization includes charts and graphs for a quick overview of trends and patterns. Feel free to explore and utilize the insights provided!
+
